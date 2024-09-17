@@ -52,7 +52,7 @@ The architecture consists of the following components:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mrachana19/HeatEx-FanGuard.git
+git clone https://github.com/mrachana19/heatex-fanguard.git
 cd HeatEx-FanGuard
 ```
 
@@ -102,5 +102,5 @@ For a detailed explanation of the project, including the business context, data 
 
 ## Contact
 
-For any questions, please contact [Your Name](mailto:youremail@example.com).
+For any questions, please contact Rachana Mahapatra(mailto:rachanamahapatra197@gmail.com).
 
